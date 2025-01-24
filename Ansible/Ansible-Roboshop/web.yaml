@@ -1,0 +1,4 @@
+- name: web-component 
+  hosts: web 
+  become: yes
+  
